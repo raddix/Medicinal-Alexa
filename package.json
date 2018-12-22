@@ -1,0 +1,14 @@
+{
+  "name": "medicine",
+  "version": "1.0.0",
+  "description": "Node app for alexa skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohit Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  }
+}
